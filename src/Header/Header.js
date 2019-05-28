@@ -45,8 +45,9 @@ const Header  = () => {
                     <Sub>WEB DEVELOPER</Sub>
                 </Logo>
                 <Ul>
-                    <Li><Link to="/aboutme">ABOUT ME</Link></Li>
-                    <Li><Link to="/portfolio">PORTFOLIO</Link></Li>
+                    <Li><Link to="/about_me/aboutme">ABOUT ME</Link></Li>
+                    <Li><Link to="/about_me/portfolio">PORTFOLIO</Link></Li>
+                    <Li><a href="https://drive.google.com/file/d/13SMs_IIycwkBcEStuntNHvFhHFj2Uyjr/view?usp=sharing" target="_blank">RESUME</a></Li>
                 </Ul>
             </Top>
         </HeaderStyle>

@@ -14,7 +14,7 @@ const MainDiv = styled.div`
 
 const DivOne = styled.div`
     border-right:1px solid #bcbcbc;
-    width:30%;
+    width:25%;
     float:left;
     @media (max-width: 700px) {
         width:100%;
@@ -39,8 +39,8 @@ const Period = styled.div`
 `;
 
 const DivTwo = styled.div`
-    width:70%;
-    padding-left:50px;
+    width:75%;
+    padding-left:100px;
     float:left;
     @media (max-width: 700px) {
         padding-left:0px;

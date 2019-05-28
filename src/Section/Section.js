@@ -17,9 +17,9 @@ const Section = () => {
     return (
         <Sec>
             <Article>
-                <Route exact path="/" component={AboutMe} />
-                <Route path="/aboutme" component={AboutMe} />
-                <Route path="/portfolio" component={Portfolio} />
+                <Route exact path="/about_me" component={AboutMe} />
+                <Route path="/about_me/aboutme" component={AboutMe} />
+                <Route path="/about_me/portfolio" component={Portfolio} />
             </Article>
         </Sec>
     )
