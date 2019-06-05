@@ -14,7 +14,7 @@ const MainDiv = styled.div`
 
 const DivOne = styled.div`
     border-right:1px solid #bcbcbc;
-    width:25%;
+    width:30%;
     float:left;
     @media (max-width: 700px) {
         width:100%;
@@ -39,8 +39,8 @@ const Period = styled.div`
 `;
 
 const DivTwo = styled.div`
-    width:75%;
-    padding-left:100px;
+    width:70%;
+    padding-left:50px;
     float:left;
     @media (max-width: 700px) {
         padding-left:0px;
@@ -74,8 +74,8 @@ const PortFolio = () => {
                     <a href="http://koreataxi.kr" target="_blank">http://koreataxi.kr</a>
                 </DivOne>
                 <DivTwo>
-                    <Desc>외국인 택시 예약 시스템</Desc>
-                    <Work>- 전반적인 개발</Work>
+                    <Desc>외국인 택시 예약 서비스</Desc>
+                    <Work>- front-end, back-end</Work>
                     <Work>- 서버세팅</Work>
                 </DivTwo>
                 <Clear></Clear>

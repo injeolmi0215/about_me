@@ -47,7 +47,7 @@ const Header  = () => {
                 <Ul>
                     <Li><Link to="/about_me/aboutme">ABOUT ME</Link></Li>
                     <Li><Link to="/about_me/portfolio">PORTFOLIO</Link></Li>
-                    <Li><a href="https://drive.google.com/file/d/13SMs_IIycwkBcEStuntNHvFhHFj2Uyjr/view?usp=sharing" target="_blank">RESUME</a></Li>
+                    <Li><a href="https://drive.google.com/drive/folders/1ddpEYNlABsa2ZJ8ZuMjDMqIdNQmrWOuK?usp=sharing" target="_blank">RESUME</a></Li>
                 </Ul>
             </Top>
         </HeaderStyle>
