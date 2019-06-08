@@ -10,6 +10,7 @@ const About = styled.div`
 const AboutMe = () => {
     return (<About>
         <div><b>NAME</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;김제운</div><br></br>
+        <div><b>NAME</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1989.02.15</div><br></br>
         <div><b>EMAIL</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;injeolmi0215@gmail.com</div><br></br>
         <div><b>EDUCATION</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;창원대학교 - 제어계측공학 학사 </div><br></br>
         <div><b>CAREER</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017~2018 모람씨앤티</div><br></br>
