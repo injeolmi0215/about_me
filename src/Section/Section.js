@@ -5,7 +5,7 @@ import Portfolio from '../Components/PortFolio/PortFolio';
 import { Route,Switch } from 'react-router-dom';
 const Sec = styled.section`
     position: relative;
-    max-width: 600px;
+    max-width: 1180px;
     margin : 0 auto;
 
 `
